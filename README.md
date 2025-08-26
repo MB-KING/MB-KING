@@ -90,7 +90,6 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mb-king&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mb-king&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
