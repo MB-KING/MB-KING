@@ -17,7 +17,6 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 - 🌱 I'm learning **Advanced React Patterns** and **System Design**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, and Web Development**
-- 📫 How to reach me: **x_mb_king_x@x**
 
 ---
 
@@ -43,10 +42,10 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mb-king" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mb-king&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
